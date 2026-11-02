@@ -1,0 +1,26 @@
+{
+  "name": "labnum6ia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IronErchik/LabNum6IA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IronErchik/LabNum6IA/issues"
+  },
+  "homepage": "https://github.com/IronErchik/LabNum6IA#readme",
+  "devDependencies": {
+    "htmlhint": "^1.9.2",
+    "stylelint": "^17.16.0",
+    "stylelint-config-standard": "^40.0.0"
+  }
+}
